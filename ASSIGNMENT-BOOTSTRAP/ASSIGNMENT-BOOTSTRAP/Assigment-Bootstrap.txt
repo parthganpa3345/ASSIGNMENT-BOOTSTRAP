@@ -1,0 +1,51 @@
+Bootstrap Assignment
+Module (Bootstrap Basic & Advanced) – 6
+
+1.What are the advantages of Bootstrap?
+Ans. Top 10 Advantages of Bootstrap.
+     1) Easy initiation. Coding is a hurricane task for a person who is unbeknownst to web development.
+     2) Responsiveness.
+     3) Highly customizable. 
+     4) Extremely user-centric.
+     5) Top-notch support.
+     6) Cross-browser compatibility.
+     7) plugins to your rescue.
+     8) Far-reaching popularity
+     9) Ample documentation
+     10) Updates at the doorstep
+
+2.What is a Bootstrap Container, and how does it work?
+Ans. Containers are the most basic layout element in Bootstrap and are required when using our default grid system.
+     Containers are used to contain, pad, and (sometimes) center the content within them. 
+     While containers can be nested, most layouts do not require a nested container.
+
+
+3.What are the default Bootstrap text settings?
+Ans. Bootstrap a default font-size of 1rem (16px by default), and its line-height is 1.5.
+
+4.What do you know about the Bootstrap Grid System? 
+Ans. Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content. 
+     It's built with flexbox and is fully responsive. 
+
+5.What is the difference between Bootstrap 4 and Bootstrap 5?
+Ans. The form elements in Bootstrap 4 have defaulted to the browser-provided view. 
+     However, in Bootstrap 5, the form elements have a custom design that enables them to have a consistent look and feel in all browsers.
+
+6.What is the difference between Bootstrap 4 and Bootstrap 5?
+Ans. Button groups allow multiple buttons to be stacked together on a single line. This is useful when you want to place items like alignment buttons together. 
+     You can add on optional JavaScript radio and checkbox style behavior with Bootstrap Button Plugin. This class is used for a basic button group.
+
+7.How can you use Bootstrap to make thumbnails?
+Ans. 1) Add an <a> tag with the class of .thumbnail around an image.
+     2) This adds four pixels of padding and a gray border.
+     3) On hover, an animated glow outlines the image.
+
+8.In Bootstrap 4, what is flexbox?
+Ans. Flexbox is used to quickly manage the layout, alignment and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities.
+     You can also do complex implementations using custom CSS. Flexbox Properties: Enable flex behaviors.
+
+9.How can one create an alert in Bootstrap?
+Ans. Create Visual Studio Code.
+
+10.What is a bootstrap card and how would you create one?
+Ans. Create Visual Studio Code.
